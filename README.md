@@ -3,14 +3,14 @@
 ## Descripción
 
 **InfoMundi** es una aplicación web académica que integra frontend,
-backend, base de datos y pipeline ETL.\
+backend, base de datos y pipeline ETL.
 El sistema permite:
 
--   Buscar países usando la API de RestCountries.\
--   Guardar países como favoritos en una base de datos MySQL.\
+-   Buscar países usando la API de RestCountries.
+-   Guardar países como favoritos en una base de datos MySQL.
 -   Ejecutar un pipeline ETL (manual o automático cada 5 minutos)
-    que limpia y normaliza los datos.\
--   Generar respaldos en CSV y logs JSON.\
+    que limpia y normaliza los datos.
+-   Generar respaldos en CSV y logs JSON.
 -   Visualizar los datos limpios en una tabla desde el frontend.
 
 ------------------------------------------------------------------------
