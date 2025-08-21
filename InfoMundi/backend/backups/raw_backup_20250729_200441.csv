@@ -1,0 +1,19 @@
+id,nombre,pais,fecha,valor,fuente
+1,Costa Rica,Costa Rica,2025-07-29,120.5,prueba manual
+2,Costa Rica,Costa Rica,2025-07-29,120.5,prueba manual
+3,United States,United States,2025-07-29,0.0,favorito
+4,United States,United States,2025-07-29,0.0,favorito
+5,Colombia,Colombia,2025-07-29,0.0,favorito
+6,Costa Rica,Costa Rica,2025-07-29,123.45,prueba manual
+7,Colombia,Colombia,2025-07-29,456.78,prueba manual
+8,United States,United States,2025-07-29,789.12,prueba manual
+9,Costa Rica,Costa Rica,2025-07-29,123.45,prueba manual
+10,Colombia,Colombia,2025-07-29,456.78,prueba manual
+11,United States,United States,2025-07-29,789.12,prueba manual
+12,Mexico,Mexico,2025-07-29,321.0,prueba manual
+13,Argentina,Argentina,2025-07-29,654.32,prueba manual
+14,Chile,Chile,2025-07-29,987.65,prueba manual
+15,Peru,Peru,2025-07-29,147.25,prueba manual
+16,Brazil,Brazil,2025-07-29,258.36,prueba manual
+17,Spain,Spain,2025-07-29,369.47,prueba manual
+18,Germany,Germany,2025-07-29,741.58,prueba manual

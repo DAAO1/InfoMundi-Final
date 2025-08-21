@@ -1,0 +1,7 @@
+{
+    "timestamp": "20250729_200701",
+    "registros_leidos": 19,
+    "registros_limpios": 19,
+    "raw_backup": "backups\\raw_backup_20250729_200701.csv",
+    "cleaned_backup": "backups\\cleaned_backup_20250729_200701.csv"
+}
